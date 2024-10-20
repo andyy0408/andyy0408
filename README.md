@@ -12,7 +12,7 @@ Aplicativo móvel apk.:
     
 
 
-Acompanhamento das reunioes.: 
+ 
 # Acompanhamento das reunioes:
 # Primeira Reunião – 23 de Setembro de 2024
 Na primeira reunião, foi realizada uma apresentação e discussão sobre o início do desenvolvimento do projeto. A meta estabelecida foi a verificação dos kits de impressão, considerando um formato editável, como OpenSCAD ou FreeCAD, ou o STL recomendado no vídeo.
